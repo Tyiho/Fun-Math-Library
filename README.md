@@ -4,7 +4,7 @@
 A c# library I built to practice linear algebra concepts. It was made for the fun of it, and does not include a test project like my normal repositories. This means that I cannot garuntee everything works correctly, but in all likelihood it should.
 
 ## What does it include?
-Vectors and Matrices.
+Vectors, Angles and Matrices. The basic objects needed for linear algebra practice. 
 
 ### Vectors
 There are several vector based structs and interfaces.
